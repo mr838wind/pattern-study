@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7dccea36-9dae-4a93-84f5-8a26a65cb1fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$AncientSauce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$ChicagoPizzaIngredientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$Dough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$NewYorkPizzaIngredientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$PizzaIngredientFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$Sauce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$SpecialSauce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$ThickDough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory$ThinDough.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/abstract_factory/StudyAbstractFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern$Cook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern$HawaiianPizzaBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern$Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern$PizzaBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern$SpicyPizzaBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/builder/StudyBuilderPattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$ChicagoCheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$ChicagoPepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$NewYorkCheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$NewYorkPepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before$PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_1_Before.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$ChicagoCheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$ChicagoPepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$ChicagoPizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$NewYorkCheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$NewYorkPepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$NewYorkPizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After$PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/factory_method/StudyFactoryMethod_2_After.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_1_Before$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_1_Before$CheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_1_Before$PepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_1_Before$Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_1_Before$PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_1_Before.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After$CheesePizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After$PepperoniPizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After$Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After$PizzaStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After$SimplePizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/pattern-study/com/pattern/simple_factory/StudySimpleFactory_2_After.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern-study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pattern/abstract_factory/StudyAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pattern/builder/StudyBuilderPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pattern/factory_method/StudyFactoryMethod_1_Before.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pattern/factory_method/StudyFactoryMethod_2_After.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pattern/simple_factory/StudySimpleFactory_1_Before.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/pattern/simple_factory/StudySimpleFactory_2_After.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1vM28AdtvKmohWrIWiVSyJ12ahM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pattern.fatory.abstract_factory" />
+      <recent name="com.pattern.fatory.factory_method" />
+      <recent name="com.pattern.fatory.simple_factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StudyBuilderPattern">
+    <configuration name="StudyAbstractFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.fatory.abstract_factory.StudyAbstractFactory" />
+      <module name="pattern-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.fatory.abstract_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyBuilderPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.builder.StudyBuilderPattern" />
+      <module name="pattern-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyFactoryMethod_1_Before" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.fatory.factory_method.StudyFactoryMethod_1_Before" />
+      <module name="pattern-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.fatory.factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudyFactoryMethod_2_After" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.fatory.factory_method.StudyFactoryMethod_2_After" />
+      <module name="pattern-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.fatory.factory_method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudySimpleFactory_2_After" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.fatory.simple_factory.StudySimpleFactory_2_After" />
+      <module name="pattern-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.fatory.simple_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudyBuilderPattern" />
+        <item itemvalue="Application.StudyAbstractFactory" />
+        <item itemvalue="Application.StudyFactoryMethod_1_Before" />
+        <item itemvalue="Application.StudyFactoryMethod_2_After" />
+        <item itemvalue="Application.StudySimpleFactory_2_After" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dccea36-9dae-4a93-84f5-8a26a65cb1fd" name="Default Changelist" comment="" />
+      <created>1626357475275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626357475275</updated>
+      <workItem from="1626357476554" duration="6995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
